@@ -4,7 +4,7 @@ This guide will help you create an automated agent that monitors Twitter/X for r
 
 ## Overview
 
-Based on Brian's suggestion, we'll build a system that:
+Based on [Brian's suggestion](https://x.com/brianships/status/1903883233177014605), we'll build a system that:
 
 1. Creates a Twitter list of accounts relevant to your work
 2. Regularly fetches tweets from this list using the socialdata.tools API
